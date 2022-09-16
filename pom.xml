@@ -12,7 +12,7 @@
   <properties>
       <main.verticle>de.bindu.vertx.MyVerticle</main.verticle>
     <vertx.version>3.5.4</vertx.version>
-    <graphql-java.version>8.0</graphql-java.version>
+    <graphql-java.version>17.4</graphql-java.version>
   </properties>
 
   <dependencies>
